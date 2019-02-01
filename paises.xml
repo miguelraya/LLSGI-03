@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE paises SYSTEM "marcadores.dtd">
-<paises>
+<paises xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="esquema.xsd">
 <pais>
   <nombre>Espana</nombre>
   <superficie>504.783</superficie>
