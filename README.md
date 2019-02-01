@@ -1,2 +1,9 @@
-# LLSGI-03
-Tercera entrega Curs LLSGI 2019
+# Introducció als Llenguatges de Marques LLSGI-03
+## _Tercera activitat en que aprenem XML i els estils amb DTD y XML Schema_
+
+A. Les dates de la meva taula corresponen a superficie, població i densitat de població de diferents països, i l'he extret de:
+
+https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_y_territorios_dependientes_por_densidad_de_poblaci%C3%B3n
+
+**Alumne:**
+>Miguel Raya Pons
