@@ -1,0 +1,6 @@
+<!ELEMENT paises (pais)*>
+<!ELEMENT pais (nombre|superficie|poblacion|densidad)*>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT superficie (#PCDATA)>
+<!ELEMENT poblacion (#PCDATA)>
+<!ELEMENT densidad (#PCDATA)>
